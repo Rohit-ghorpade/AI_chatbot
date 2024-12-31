@@ -1,0 +1,9 @@
+python-dotenv
+groq
+pandas
+numpy 
+python-dotenv
+pyyaml
+flask
+markdown
+#  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
